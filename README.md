@@ -34,6 +34,8 @@ Example run of **`main.c`**:
 2. Сума модулів елементів вище головної діагоналі: 1245
 ```
 
+![Execution demonstration](screenshot.png)
+
 ## Contributing
 
 Contributions are welcome and appreciated! Here's how you can contribute:
