@@ -16,8 +16,8 @@ The program can be compiled using GCC or an equivalent C compiler.
 
 ### Compile `main.c`
 ```bash
-gcc main.c -o lab8
-./lab8
+gcc main.c -o main
+./main
 ```
 
 ## Example Usage
